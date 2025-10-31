@@ -5,9 +5,9 @@
 //* Provides framework for adding sensors & ITDT Logic  *
 //*              Mike Loman 8/12/25                     *
 //*******************************************************
-//  https://oshpark.com/shared_projects/04zPqAZm
+//  https://oshpark.com/shared_projects/tfre3jx1
 //  test code assumes:
-//   1.  Single SMT I2C Deployment Module on bus
+//   1.  Single THT I2C Deployment Module on bus
 //   2.  Test config:  Xmas lights connected to Ch1 & Ch2, 3S LiPo connected 
 //   3.  Ch1 is Drogue and Ch2 is Main
 //   4.  Adafruit Trinket M0 is MCU driving the I2C Deployment Module and 
